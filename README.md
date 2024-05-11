@@ -1,3 +1,5 @@
+### updated some code to use Python=3.10 and more recent versions of sklearn
+
 # Scikit-learn Tutorial
 
 *Jake VanderPlas*
